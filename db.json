@@ -1,0 +1,45 @@
+{ 
+    "events": [
+    {
+        "id": "5928101",
+        "category": "Mingle",
+        "title": "Dinner Soiree",
+        "description": "Make connections, gather intelligence.",
+        "location": "Bezzleton Museum",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "organizer": "Kat Lundeen"
+    },
+    {
+        "id": 5928102,
+        "category": "Target",
+        "title": "Analyze Intel and Locate Target",
+        "description": "Find your new target at this event.",
+        "location": "New City Opening",
+        "date": "January 29, 2022",
+        "time": "1:00",
+        "organizer": "General Hoffstat"
+    },
+    {
+        "id": 5928103,
+        "category": "Intel",
+        "title": "Relay target intelligence",
+        "description": "Relay target location and intelligence, stand by for orders.",
+        "location": "Downtow",
+        "date": "January 31, 2022",
+        "time": "19:00",
+        "organizer": "Gentlemens Club Liason"
+    },
+    {
+        "id": 5928104,
+        "category": "Execute",
+        "title": "Take out target",
+        "description": "Carry on, 007",
+        "location": "S. Africa",
+        "date": "February 01, 2022",
+        "time": "4:00",
+        "petsAllowed": true,
+        "organizer": "James Bond"
+    }
+    ]
+}
