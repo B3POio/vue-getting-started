@@ -25,7 +25,7 @@
           "id": 3,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You make room in your bag for the large, toy boat. It presses up against the canvas snugly. Your son will be so happy, it is the perfect gift! You hope that the boat will fit into his little, wooden cart; it will be too heavy for him to carry. You turn your attention to the street once more.",
-          "buttons": { "text": "Continue along the busy street...", "page": 5}
+          "buttons": [{ "text": "Continue along the busy street...", "page": 5}]
         },
         {
           "id": 4,
