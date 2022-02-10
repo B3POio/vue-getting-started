@@ -19,7 +19,7 @@
           "id": 2,
           "title": "House of Delicate Leaves",
           "description": "Presents: Sakura",  
-          "buttons": { "text":"Play Game", "page": 0}
+          "buttons": [{ "text":"Play Game", "page": 0}]
         },
         {
           "id": 3,
@@ -46,19 +46,19 @@
           "id": 5,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You move along past the food stalls until you reach the vendors selling woven baskets, reed mats and other homely goods. Before you left home, you promised your son that you would pick up a special gift during your visit to the castle markets. It has been a long time since he received a new toy... Your eye falls upon a small bench, behind which sits a hunched and crooked old woman. Her wizened features scan the crowd placidly, as if taking in the energy and buzz like a fox does the afternoon sun. In front of her, piled haphazardly, are carved wooden boats with tiny cloth sails. Each beautifully crafted by the slender, fidgeting fingers of the crone-like figure seated on the bench. She perks up as you approach the stall, the little toy boat's sails quivering slightly in a sudden breeze. Wooden dinghies! Perfect for a day by the water! For boys and girls! The little woman says in a raspy voice. Tall ones, short ones, round ones, square ones! She announces proudly, cracking her knobbly knuckles delightedly before beckoning you to browse. You regard your options carefully as the elder declares her prices. Following your purchase at the baker, you see that you have enough money to buy a big boat.",
-          "buttons": { "text": "Buy a big boat...", "page": 5}
+          "buttons": [{ "text": "Buy a big boat...", "page": 5}]
         },
         {
           "id": 6,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You stuff the large rice bun into your bag and fasten the straps. Your spouse will be so happy! You still have money leftover, so you move on to the next set of merchants.",
-          "buttons": { "text": "Browse more stalls..." , "page": 7}
+          "buttons": [{ "text": "Browse more stalls..." , "page": 7}]
         },
         {
           "id": 7,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You place the small rice bun into your bag and fasten the straps. You hope your spouse will be pleased. You still have money leftover, you move on to the next set of merchants.",
-          "buttons":  { "text": "Browse more stalls...", "page": 6}
+          "buttons":  [{ "text": "Browse more stalls...", "page": 6}]
         }
       ]
 }
