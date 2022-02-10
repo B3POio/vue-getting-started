@@ -2,39 +2,64 @@
     "events": [
         {
           "id": 1,
-          "title": "House of Delicate Leaves",
-          "description": "Presents: Sakura",  
-          "button": "Play Game"
+          "title": "House of Delicate Leaves - Sakura",
+          "description": "You stand among the hustle and bustle of the busy market street. Stalls selling fresh produce, delicious-smelling meats, and warm, baked bread draw you in enticingly. The sultry summer weather has an almost tacky humidity to it as you wander from vendor to vendor. To combat the heat you exchange a little money for a small pack of spring water. The refreshing burst of the purest mountain streams is a relief to your parched mouth. Everyone around you is in high spirits; the daimyō has returned from a summit with another lord today, and news of exotic goods and trade has the merchants and customers giddy with excitement. You visit a nearby baker and browse his wares for a time. The aroma of fresh-baked rice buns hit your nose and your mouth waters. You decide to bring some food with you to present as a gift to your spouse. Your home, towards the mountains, is just a short journey down the road from the lord&#39;s castle and markets. The household has been a little tense recently, what with rumors of bandits in the valleys. A gift will certainly calm some nerves. The jolly baker quizzes you expectantly. You affirm that this food is too good to pass up. Several options are presented to you as the baker jovially accepts your coin.",  
+          "button": [
+            { 
+               "text": "Purchase a big rice bun...",
+               "page": 8
+            },
+            { 
+               "title": "Purchase a small rice bun...",
+               "page": 7
+            }
+        ]
         },
         {
           "id": 2,
-          "title": "House of Delicate Leaves - Sakura",
-          "description": "You make room in your bag for the large, toy boat. It presses up against the canvas snugly. Your son will be so happy, it is the perfect gift! You hope that the boat will fit into his little, wooden cart; it will be too heavy for him to carry. You turn your attention to the street once more.",
-          "button": "Continue along the busy street..."
+          "title": "House of Delicate Leaves",
+          "description": "Presents: Sakura",  
+          "button": { "text":"Play Game", "page": 0}
         },
         {
           "id": 3,
           "title": "House of Delicate Leaves - Sakura",
-          "description": "With your shopping trip complete, you look up at the magnificent edifice at the end of the road. The castle stands tall and beautifully painted, a fine representation of your lord&#39;s power and wealth. The daimyō is considered a stern yet generous man, and one whom you and your fellows regard with respect. Out of nowhere, you are jostled by stony-faced looking men, serious eyes dead-set on the castle. Some wear armor, others in simple clothes. Several of these individuals push past the congregated crowd, arousing shouts and annoyed jeers. The sharp glances of the warriors are enough to silence the rowdy folk, and a path is soon cleared as the sword-wielders push toward the castle.",
-          "button": "Follow the men at a distance..."
+          "description": "You make room in your bag for the large, toy boat. It presses up against the canvas snugly. Your son will be so happy, it is the perfect gift! You hope that the boat will fit into his little, wooden cart; it will be too heavy for him to carry. You turn your attention to the street once more.",
+          "button": { "text": "Continue along the busy street...", "page": 5}
         },
         {
           "id": 4,
+          "title": "House of Delicate Leaves - Sakura",
+          "description": "With your shopping trip complete, you look up at the magnificent edifice at the end of the road. The castle stands tall and beautifully painted, a fine representation of your lord&#39;s power and wealth. The daimyō is considered a stern yet generous man, and one whom you and your fellows regard with respect. Out of nowhere, you are jostled by stony-faced looking men, serious eyes dead-set on the castle. Some wear armor, others in simple clothes. Several of these individuals push past the congregated crowd, arousing shouts and annoyed jeers. The sharp glances of the warriors are enough to silence the rowdy folk, and a path is soon cleared as the sword-wielders push toward the castle.",
+          "button": [
+              { 
+                 "text": "Follow the men at a distance...",
+                 "page": 8
+              },
+              { 
+                 "title": "Go to the sake house, keep your head down....",
+                 "page": 7
+              }
+          ]
+        },
+        {
+          "id": 5,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You move along past the food stalls until you reach the vendors selling woven baskets, reed mats and other homely goods. Before you left home, you promised your son that you would pick up a special gift during your visit to the castle markets. It has been a long time since he received a new toy... Your eye falls upon a small bench, behind which sits a hunched and crooked old woman. Her wizened features scan the crowd placidly, as if taking in the energy and buzz like a fox does the afternoon sun. In front of her, piled haphazardly, are carved wooden boats with tiny cloth sails. Each beautifully crafted by the slender, fidgeting fingers of the crone-like figure seated on the bench. She perks up as you approach the stall, the little toy boat's sails quivering slightly in a sudden breeze. Wooden dinghies! Perfect for a day by the water! For boys and girls! The little woman says in a raspy voice. Tall ones, short ones, round ones, square ones! She announces proudly, cracking her knobbly knuckles delightedly before beckoning you to browse. You regard your options carefully as the elder declares her prices. Following your purchase at the baker, you see that you have enough money to buy a big boat.",
           "button": "Buy a big boat..."
         },
         {
-          "id": 5,
+          "id": 6,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You stuff the large rice bun into your bag and fasten the straps. Your spouse will be so happy! You still have money leftover, so you move on to the next set of merchants.",
           "button": "Browse more stalls..."
         },
         {
-          "id": 6,
+          "id": 7,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You place the small rice bun into your bag and fasten the straps. You hope your spouse will be pleased. You still have money leftover, you move on to the next set of merchants.",
           "button": "Browse more stalls..."
         }
       ]
 }
+
