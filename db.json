@@ -37,7 +37,7 @@
                  "page": 8
               },
               { 
-                 "title": "Go to the sake house, keep your head down....",
+                 "text": "Go to the sake house, keep your head down....",
                  "page": 7
               }
           ]
@@ -52,13 +52,13 @@
           "id": 6,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You stuff the large rice bun into your bag and fasten the straps. Your spouse will be so happy! You still have money leftover, so you move on to the next set of merchants.",
-          "buttons": { "text": "Browse more stalls..." ", "page": 5}
+          "buttons": { "text": "Browse more stalls..." , "page": 7}
         },
         {
           "id": 7,
           "title": "House of Delicate Leaves - Sakura",
           "description": "You place the small rice bun into your bag and fasten the straps. You hope your spouse will be pleased. You still have money leftover, you move on to the next set of merchants.",
-          "buttons":  { "text": "Browse more stalls...", "page": 5}
+          "buttons":  { "text": "Browse more stalls...", "page": 6}
         }
       ]
 }
