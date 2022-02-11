@@ -1,5 +1,12 @@
 { 
     "events": [
+        
+        {
+          "id": 0,
+          "title": "House of Delicate Leaves",
+          "description": "Presents: Sakura",  
+          "buttons": [{ "text":"Play Game", "page": 0}]
+        },
         {
           "id": 1,
           "title": "House of Delicate Leaves - Sakura",
@@ -17,9 +24,18 @@
         },
         {
           "id": 2,
-          "title": "House of Delicate Leaves",
+          "title": "House of Delicate Leaves - Sakura",
           "description": "Presents: Sakura",  
-          "buttons": [{ "text":"Play Game", "page": 0}]
+          "buttons": [
+              { 
+                 "text": "Follow the men at a distance...",
+                 "page": 8
+              },
+              { 
+                 "text": "Go to the sake house, keep your head down....",
+                 "page": 7
+              }
+          ]
         },
         {
           "id": 3,
