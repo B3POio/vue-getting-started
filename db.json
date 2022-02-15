@@ -10,15 +10,31 @@
         {
           "id": 1,
           "title": "House of Delicate Leaves - Sakura",
-          "description": "You stand among the hustle and bustle of the busy market street. Stalls selling fresh produce, delicious-smelling meats, and warm, baked bread draw you in enticingly. The sultry summer weather has an almost tacky humidity to it as you wander from vendor to vendor. To combat the heat you exchange a little money for a small pack of spring water. The refreshing burst of the purest mountain streams is a relief to your parched mouth. Everyone around you is in high spirits; the daimyō has returned from a summit with another lord today, and news of exotic goods and trade has the merchants and customers giddy with excitement. You visit a nearby baker and browse his wares for a time. The aroma of fresh-baked rice buns hit your nose and your mouth waters. You decide to bring some food with you to present as a gift to your spouse. Your home, towards the mountains, is just a short journey down the road from the lord's castle and markets. The household has been a little tense recently, what with rumors of bandits in the valleys. A gift will certainly calm some nerves. The jolly baker quizzes you expectantly. You affirm that this food is too good to pass up. Several options are presented to you as the baker jovially accepts your coin.",  
+          "description": [
+                {
+                    "text": "You stand among the hustle and bustle of the busy market street. Stalls selling fresh produce, delicious-smelling meats, and warm, baked bread draw you in enticingly." },
+                {
+                    "text" : "The sultry summer weather has an almost tacky humidity to it as you wander from vendor to vendor. To combat the heat you exchange a little money for a small pack of spring water. The refreshing burst of the purest mountain streams is a relief to your parched mouth."},
+                {
+                    "text": "Everyone around you is in high spirits; the daimyō has returned from a summit with another lord today, and news of exotic goods and trade has the merchants and customers giddy with excitement."},
+                {
+                    "text": "You visit a nearby baker and browse his wares for a time. The aroma of fresh-baked rice buns hit your nose and your mouth waters. You decide to bring some food with you to present as a gift to your spouse."
+                },
+                {
+                    "text": "Your home, towards the mountains, is just a short journey down the road from the lord's castle and markets. The household has been a little tense recently, what with rumors of bandits in the valleys."
+                },
+                {
+                    "text": "A gift will certainly calm some nerves. The jolly baker quizzes you expectantly. You affirm that this food is too good to pass up. Several options are presented to you as the baker jovially accepts your coin."
+                }
+            ],  
           "buttons": [
             { 
                "text": "Purchase a big rice bun...",
-               "page": 5
+               "page": 6
             },
             { 
                "text": "Purchase a small rice bun...",
-               "page": 4
+               "page": 7
             }
         ]
         },
@@ -38,44 +54,754 @@
           ]
         },
         {
-          "id": 3,
-          "title": "House of Delicate Leaves - Sakura",
-          "description": "You make room in your bag for the large, toy boat. It presses up against the canvas snugly. Your son will be so happy, it is the perfect gift! You hope that the boat will fit into his little, wooden cart; it will be too heavy for him to carry. You turn your attention to the street once more.",
-          "buttons": [{ "text": "Continue along the busy street...", "page": 5}]
-        },
-        {
-          "id": 4,
-          "title": "House of Delicate Leaves - Sakura",
-          "description": "With your shopping trip complete, you look up at the magnificent edifice at the end of the road. The castle stands tall and beautifully painted, a fine representation of your lord&#39;s power and wealth. The daimyō is considered a stern yet generous man, and one whom you and your fellows regard with respect. Out of nowhere, you are jostled by stony-faced looking men, serious eyes dead-set on the castle. Some wear armor, others in simple clothes. Several of these individuals push past the congregated crowd, arousing shouts and annoyed jeers. The sharp glances of the warriors are enough to silence the rowdy folk, and a path is soon cleared as the sword-wielders push toward the castle.",
-          "buttons": [
-              { 
-                 "text": "Follow the men at a distance...",
-                 "page": 2
-              },
-              { 
-                 "text": "Go to the sake house, keep your head down....",
-                 "page": 7
+            "id": 3,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You make room in your bag for the large, toy boat. It presses up against the canvas snugly." },
+              {
+                  "text" : "Your son will be so happy, it is the perfect gift! You hope that the boat will fit into his little, wooden cart; it will be too heavy for him to carry."},
+              {
+                  "text": "You turn your attention to the street once more."
               }
-          ]
-        },
+          ],
+            "buttons": [{ "text": "Continue along the busy street...", "page": 4}]
+          },
+          {
+            "id": 4,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "With your shopping trip complete, you look up at the magnificent edifice at the end of the road. The castle stands tall and beautifully painted, a fine representation of your lord&#39;s power and wealth. The daimyō is considered a stern yet generous man, and one whom you and your fellows regard with respect." 
+              },
+              {
+                  "text" : "Out of nowhere, you are jostled by stony-faced looking men, serious eyes dead-set on the castle. Some wear armor, others in simple clothes. Several of these individuals push past the congregated crowd, arousing shouts and annoyed jeers. The sharp glances of the warriors are enough to silence the rowdy folk, and a path is soon cleared as the sword-wielders push toward the castle."
+              }
+          ],
+            "buttons": [
+                { 
+                    "text": "Follow the men at a distance..", 
+                    "page": 10
+                },
+                { 
+                    "text": "Go to the sake house, keep your head down...", 
+                    "page": 11
+                }
+            ]
+          },
         {
-          "id": 5,
-          "title": "House of Delicate Leaves - Sakura",
-          "description": "You move along past the food stalls until you reach the vendors selling woven baskets, reed mats and other homely goods. Before you left home, you promised your son that you would pick up a special gift during your visit to the castle markets. It has been a long time since he received a new toy... Your eye falls upon a small bench, behind which sits a hunched and crooked old woman. Her wizened features scan the crowd placidly, as if taking in the energy and buzz like a fox does the afternoon sun. In front of her, piled haphazardly, are carved wooden boats with tiny cloth sails. Each beautifully crafted by the slender, fidgeting fingers of the crone-like figure seated on the bench. She perks up as you approach the stall, the little toy boat's sails quivering slightly in a sudden breeze. Wooden dinghies! Perfect for a day by the water! For boys and girls! The little woman says in a raspy voice. Tall ones, short ones, round ones, square ones! She announces proudly, cracking her knobbly knuckles delightedly before beckoning you to browse. You regard your options carefully as the elder declares her prices. Following your purchase at the baker, you see that you have enough money to buy a big boat.",
-          "buttons": [{ "text": "Buy a big boat...", "page": 3}]
-        },
+            "id": 5,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You move along past the food stalls until you reach the vendors selling woven baskets, reed mats and other homely goods. " },
+              {
+                  "text" : "Before you left home, you promised your son that you would pick up a special gift during your visit to the castle markets. It has been a long time since he received a new toy..."},
+              {
+                  "text": "Your eye falls upon a small bench, behind which sits a hunched and crooked old woman. Her wizened features scan the crowd placidly, as if taking in the energy and buzz like a fox does the afternoon sun."},
+              {
+                  "text": "In front of her, piled haphazardly, are carved wooden boats with tiny cloth sails. Each beautifully crafted by the slender, fidgeting fingers of the crone-like figure seated on the bench. She perks up as you approach the stall, the little toy boats&#39; sails quivering slightly in a sudden breeze."
+              },
+              {
+                  "text": "&quot;Wooden dinghies! Perfect for a day by the water! For boys and girls!&quot; The little woman says in a raspy voice. &quot;Tall ones, short ones, round ones, square ones!&quot; She announces proudly, cracking her knobbly knuckles delightedly before beckoning you to browse."
+              },
+              {
+                  "text": "You regard your options carefully as the elder declares her prices. Following your purchase at the baker, you see that you have enough money to buy a big boat."
+              }
+          ],  
+            "buttons": [{ "text": "Buy a big boat...", "page": 3}]
+          },
         {
           "id": 6,
           "title": "House of Delicate Leaves - Sakura",
-          "description": "You stuff the large rice bun into your bag and fasten the straps. Your spouse will be so happy! You still have money leftover, so you move on to the next set of merchants.",
-          "buttons": [{ "text": "Browse more stalls..." , "page": 3}]
+          "description": [
+            {
+                "text": "You stuff the large rice bun into your bag and fasten the straps. Your spouse will be so happy!" },
+            {
+                "text" : "You still have money leftover, so you move on to the next set of merchants."
+            }
+        ],  
+          "buttons": [{ "text": "Browse more stalls..." , "page": 8}]
         },
         {
           "id": 7,
           "title": "House of Delicate Leaves - Sakura",
-          "description": "You place the small rice bun into your bag and fasten the straps. You hope your spouse will be pleased. You still have money leftover, you move on to the next set of merchants.",
-          "buttons":  [{ "text": "Browse more stalls...", "page": 0}]
-        }
-      ]
-}
+          "description": [
+            {
+                "text": "You place the small rice bun into your bag and fasten the straps. You hope your spouse will be please" },
+            {
+                "text" : "You still have money leftover, you move on to the next set of merchants."
+            }
+            ],  
+            "buttons":  [{ "text": "Browse more stalls...", "page": 5}]
+        },
+        {
+            "id": 8,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You move along past the food stalls until you reach the vendors selling woven baskets, reed mats and other homely goods. " 
+              },
+              {
+                  "text" : "Before you left home, you promised your son that you would pick up a special gift during your visit to the castle markets. It has been a long time since he received a new toy..."
+              },
+              {
+                  "text" : "Your eye falls upon a small bench, behind which sits a hunched and crooked old woman. Her wizened features scan the crowd placidly, as if taking in the energy and buzz like a fox does the afternoon sun."
+              },
+              {
+                  "text" : "In front of her, piled haphazardly, are carved wooden boats with tiny cloth sails. Each beautifully crafted by the slender, fidgeting fingers of the crone-like figure seated on the bench. She perks up as you approach the stall, the little toy boats&#39; sails quivering slightly in a sudden breeze."
+              },
+              {
+                  "text" : "&quot;Wooden dinghies! Perfect for a day by the water! For boys and girls!&quot; The little woman says in a raspy voice. &quot;Tall ones, short ones, round ones, square ones!&quot; She announces proudly, cracking her knobbly knuckles delightedly before beckoning you to browse."
+              },
+              {
+                  "text" : "You regard your options carefully as the elder declares her prices. Following your purchase at the baker, you see that you have only have enough money to buy a small boat."
+              }
+          ],
+            "buttons": [
+                { 
+                    "text": "Buy a small boat...", 
+                    "page": 9
+                }
+            ]
+          },
+          {
+            "id": 9,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You can&#39;t make room in your bag for the toy boat; too much rice bun! You carry it in your hands instead." 
+              },
+              {
+                  "text" : "You&#39;re sure that your son will like it - The boat will fit well in his little, wooden cart. Perfect for a day at the beach."
+              },
+              {
+                "text" : "You turn your attention to the street once more."
+              }
+            ],  
+              "buttons":  [{ "text": "Continue along the busy street...", "page": 4}]
+          },
+          {
+            "id": 10,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The armed men stalk up the dusty road, clearing a path through the marketplace. Heads turn and folk whisper, cajoling others to look."
+              },
+              {
+                  "text": "Your curiosity leads you to keep pace with the group making their way towards the castle."  
+              },
+              {
+                  "text" : "Some of the warriors form small groups, whispering through gritted teeth to one another. They advance like wolves among sheep. Others walk proudly alone, brushing past civilians like a torch through cobwebs."
+              },
+              {
+                "text" : "The sun strikes the painted wooden gates on the approach to the castle, a deep, red highlight against the palisades and walls. You see individuals moving past the well-armored guards."
+              }
+            ],  
+              "buttons":  [{ "text": "Approach the castle gates...", "page": 12}]
+          },
+          {
+            "id": 11,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You keep your eyes to the floor as you make your way to the familiar rest-stop that is the sake house. Pushing the door open you are greeted with the sight of patrons of all walks of life enjoying an afternoon tipple. You select a seat at the bar near to some chatty farmers, already slightly in their cups after a hard morning&#39;s work."
+              },
+              {
+                  "text": "You look back at the tavern door, wondering if any of those warriors will make an appearance and cause a ruckus. In spite of the chatty atmosphere, the sticky bar-top and muggy heat at once make the sake house a little uninviting."  
+              },
+              {
+                  "text" : "You address the barkeeper and place your order."
+              }
+            ],  
+              "buttons":  [{ "text": "A shot to take the edge off...", "page": 16}]
+          },
+          {
+            "id": 12,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The gates to the lord&#39;s castle rise up and up, almost touching the clouds, it seems to you. The warriors have already begun walking through the archway and onto the palacial grounds; heading through the gardens of well-trimmed grasses and blossom-laden trees. There is a heightened tension in the air, despite the warmth of the sun and floral scents drifting upon the wind."
+              },
+              {
+                  "text": "You consider where you should try to investigate further, and how daring you wish to be. Something important is happening within those walls. You clutch your bag of goods tighter."  
+              }
+            ],  
+              "buttons":  [
+                  { 
+                      "text": "Join the group entering the castle...", 
+                      "page": 13
+                  },
+                  { 
+                    "text": "[Approach the guards...", 
+                    "page": 14
+                  }
+                ]
+          },
+          {
+            "id": 13,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You join the warriors entering the castle grounds. A feverish excitement takes hold as you join a nearby group of simply-clad men. Within their hands they grasp small pieces of paper. " 
+              },
+              {
+                  "text" : "Your gathering approaches the castle guards and are allowed to pass."
+              },
+              {
+                  "text" : "Your arm is grabbed from behind, however. A strong grip is matched by a harsh voice, &quot;hold!&quot; One of the guards has you firmly locked in place with the command. &quot;Of which clan do you belong?&quot;"
+              },
+              {
+                  "text" : "The eyes of those around you turn sharply in your direction, immediately suspicious. Sweat forms upon your brow, the hawken gazes of the warriors bury into your back."
+              },
+              {
+                  "text" : "You stammer out an apology, for curiosity getting the better of you. You grip your bag tighter, the precious contents within your only comfort."
+              },
+              {
+                  "text" : "&quot;Seize this one! They may be an enemy agent!&quot; The guard calls out. The warriors around you pounce, and begin to beat you down. Your cries of pain go ignored as the guards stamp your fingers, and you release your bag to the earth."
+              },
+              {
+                  "text" : "After a brief struggle, your hands are bound, broken fingers throbbing. You look to the dirt and see the smashed remains of the gifts you bought for your family, strewn across ground between the castle gates."
+              },
+              {
+                  "text" : "You wonder what you could have done to avoid this."
+              }
+          ],
+            "buttons": [
+                { 
+                    "text": "Try again...", 
+                    "page": 0
+                }
+            ]
+          },
+          {
+            "id": 14,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You decide that the guards look an imposing lot, and will likely bar your entry to the castle. " 
+              },
+              {
+                  "text" : "The men stand at attention, admitting warriors that hold aloft writs, or small papers of admittance. The guards seem to ignore your presence until you are around an arm&#39;s breadth from them."
+              },
+              {
+                  "text" : "One of the dour soldiers peers at you through the beetle-like plating of their helmet. &quot;Can I help you, civilian?&quot; He says as he looks you up and down in a bored fashion."
+              },
+              {
+                  "text" : "You ask what brings such heavily-armed men to the castle on such a fine day. You also inquire as to the lord&#39;s health, following his travels away. Your questions meet the air to no response."
+              },
+              {
+                  "text" : "The other, more attentive guard, addresses you firmly, &quot;away from here, civilian. Only the lord&#39;s chosen samurai and shinobi may pass!&quot;"
+              },
+              {
+                  "text" : "Your courage is cowed from the seriousness in the guard&#39;s voice."
+              },
+              {
+                  "text" : "Feeling somewhat dejected, you decide to return to the marketplace. Why would the castle summon so many samurai and shinobi? You begin to wonder as you trudge into the dust."
+              }
+          ],
+            "buttons": [
+                { 
+                    "text": "Return to the marketplace...", 
+                    "page": 15
+                }
+            ]
+          },
+          {
+            "id": 15,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You wander back to the street, feet shuffling. The sun beats down, the heat haze wavering over the tops of the buildings. Upon hitting the market, you are met with small waves of panic and confusion from the surrounding people. Folk are shouting, crying, pointing and calling. Hundreds of voices clamoring for answers. " 
+              },
+              {
+                  "text" : "Your weary feet carry you, but your direction is listless..."
+              }
+          ],
+            "buttons": [
+                { 
+                    "text": "Go to the castle gates...", 
+                    "page": 21
+                },
+                { 
+                    "text": "Go to the sake house...", 
+                    "page": 19
+                },
+                { 
+                    "text": "Go to the baker...", 
+                    "page": 22
+                },
+                { 
+                    "text": "Go to the toy maker...", 
+                    "page": 20
+                }
+            ]
+          },
+          {
+            "id": 16,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You remain in the tavern for some time, enjoying the sour-sweet bite of the drink. You down a few more shots as you make idle conversation with the farmers and local traders. A friend arrives, a cabbage farmer, and introduces you to his young son. You show him the toy boat and ask his opinion. He agrees that your son will love it! " 
+              },
+              {
+                "text": "Before long, as you stay at the bar, the sake house steadily fills with other patrons. Many of the newcomers begin whispered conversations and look around with worried glances. The young farmer&#39;s lad breaks out weeping. " 
+            },
+            {
+                "text": "From your place at the bar you can&#39;t get a good grasp of the whispers. As you make your way over to the baker you met earlier, their eyes wide and mouth agape, the door slams open. " 
+            },
+            {
+                "text": "The armed men from the street burst into the tavern and begin roughing up the tavern patrons, asking guarded questions. One serious looking man approaches you, a grimace on his face and his hand upon the hilt of his sword. " 
+            }
+          ],
+            "buttons": [
+                { 
+                    "text": "Stand up to the man...", 
+                    "page": 17
+                },
+                { 
+                    "text": "Quietly leave the bar...", 
+                    "page": 18
+                }
+            ]
+          },
+          {
+            "id": 17,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The warrior approaches you and demands that you answer his questions, assaulting you with queries about the castle, bandits on the road, a Lady gone missing..." 
+              },
+              {
+                "text": "It is too much for your sake-soaked mind to take, and you push back against the man in fear and anger." 
+            },
+            {
+                "text": "He scowls in fury, and delivers a lightning fast punch to your nose. A crack, and a dizzying fizz of pain erupt across your face. The man then reaches over to the bar and takes up the toy boat you have placed there. With a decisive throw, it is smashed to pieces upon the tavern floor." 
+            },
+            {
+                "text": "You look up as the warrior turns to another group, the farmer&#39;s boy now wailing. Blood trickles from your broken nose, and you see the gift for your son shattered into bits across the floor. " 
+            },
+            {
+                "text": "You wonder what you could have done to avoid this. " 
+            }
+          ],
+            "buttons": [
+                { 
+                    "text": "Try again...", 
+                    "page": 0
+                }
+            ]
+          },
+          {
+            "id": 18,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The warrior approaches you and demands that you answer his questions, assaulting you with queries about the castle, bandits on the road, a Lady gone missing..." 
+              },
+              {
+                "text": "It is too much for your sake-soaked mind to take, and you push back against the man in fear and anger." 
+            },
+            {
+                "text": "He scowls in fury, and delivers a lightning fast punch to your nose. A crack, and a dizzying fizz of pain erupt across your face. The man then reaches over to the bar and takes up the toy boat you have placed there. With a decisive throw, it is smashed to pieces upon the tavern floor." 
+            },
+            {
+                "text": "You look up as the warrior turns to another group, the farmer&#39;s boy now wailing. Blood trickles from your broken nose, and you see the gift for your son shattered into bits across the floor. " 
+            },
+            {
+                "text": "You wonder what you could have done to avoid this. " 
+            }
+          ],
+            "buttons": [
+                { 
+                    "text": "Leave the sake house...", 
+                    "page": 15
+                }
+            ]
+          },
+          {
+            "id": 19,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "Stale sweat and booming voices assail your senses when you push open the door to the sake house. The space is crowded beyond belief, with drunkards yelling and warriors slamming tables." 
+              },
+              {
+                "text": "The sake flows from the small casks behind the bar, the barkeeper working his heart out to stave off the ire of impatient drinkers." 
+            },
+            {
+                "text": "Wooden tables shake occasionally as shinobi and samurai acost the patrons, interrogating and inquiring. You immediately decide to avoid the bar and the aggressive atmosphere inside." 
+            }
+          ],
+            "buttons": [
+                { 
+                    "text": "Go to the castle gates...", 
+                    "page": 21
+                },
+                { 
+                    "text": "Go to the baker...", 
+                    "page": 22
+                },
+                { 
+                    "text": "Go to the toy maker...", 
+                    "page": 20
+                }
+            ]
+          },
+          {
+            "id": 20,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "Within the Market District you stagger past running guardsmen, single-minded scouts and cursing merchants to the spot where you bought the toy for your son. The dusty clouds rising from the street cause you to cough and sputter. The muck dries your mouth instantly." 
+              },
+              {
+                "text": "You come across the toy maker&#39;s table-stall, leaning akimbo; one leg knocked out from under the bench, the shards of wood a mess of splinters." 
+            },
+            {
+                "text": "Crouched among her scattered creations is the elderly woman, slowly gathering up her toy boats. Most are unspoiled, but a few have ripped sails and split masts." 
+            },
+            {
+                "text": "You bend down to help collect up the fallen toys, and the crone recoils, glaring. She pulls from her waistband a small, sharp whittling knife and points it at you, unwavering. Her small eyes, nestled within angry crow&#39;s-feet wrinkles, show no sign of recognition." 
+            },
+            {
+                "text": "You back away as the woman stares you down. Best leave that business to her." 
+            }
+          ],
+            "buttons": [
+                { 
+                    "text": "Go to the castle gates...", 
+                    "page": 21
+                },
+                { 
+                    "text": "Go to the sake house...", 
+                    "page": 19
+                },
+                { 
+                    "text": "Go to the baker...", 
+                    "page": 22
+                }
+            ]
+          },
+          {
+            "id": 21,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The castle gates stand tall in the summer sun. Beneath them, many men rush past the guards, armor glinting and swift feet sweeping through the dirt. " 
+              },
+              {
+                  "text" : "A small group appears to be hassling the guards within the gardens beyond the gate. You overhear one of the guardsmen yell &quot;as if I would ever tell anything to an honorless shinobi!&quot; "
+              },
+              {
+                  "text" : "The atmosphere is almost aspark with tension here. You decide it best to leave."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Go to the sake house...", 
+                    "page": 19
+                },
+                { 
+                    "text": "Go to the baker...", 
+                    "page": 22
+                },
+                { 
+                    "text": "Go to the toy maker...", 
+                    "page": 20
+                }
+            ]
+          },
+          {
+            "id": 22,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You approach the merchants&#39; area where the food vendors are found. The smells of carved meats mingles with the sour sweat rising from the rushing bodies of the guards, civilians and warriors." 
+              },
+              {
+                  "text" : "You pick out the baker&#39;s stall that you visited earlier in the afternoon, but it stands unattended. You witness a man surreptitiously move over to the bread, cakes and buns left lying in the sun. He swipes a piece of bread, greedily."
+              },
+              {
+                  "text" : "The man slinks away, keeping himself small and unassuming among the crowd. You decide to follow: why should you pay for that food while this opportunist gets away with theft!"
+              },
+              {
+                  "text" : "The beggar-man moves quickly towards an alleyway off the side of the Market District."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Go towards the alleyway...", 
+                    "page": 23
+                }
+            ]
+          },
+          {
+            "id": 23,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The thief looks over his shoulder warily, suspicious that he has been seen stealing. You keep your head down as his gaze passes over you." 
+              },
+              {
+                  "text" : "You stand close to a small gathering of traders as a cavalryman passes, the horse snorting madly as it trots in front of your path."
+              },
+              {
+                  "text" : "Just as you think of moving to reproach the thief, you spot a dash of movement out of the corner of your eye. Someone else is tailing the bread stealer!"
+              },
+              {
+                  "text" : "The beggar spots the pursuer and breaks into a run, heading in your direction. As he dashes past you and into the alleyway, the warrior giving chase careens forward, heading straight for where you stand!"
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Dodge into the street!...", 
+                    "page": 25
+                },
+                { 
+                    "text": "Brace yourself!...", 
+                    "page": 24
+                }
+            ]
+          },
+          {
+            "id": 24,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The warrior barrels into you and the small gathering of traders standing around you. With the strength of a tiger he launches you off your feet." 
+              },
+              {
+                  "text" : "You go sprawling into the dusty ground, flat on your back - the impact driving a gasp of air from your dusty lungs."
+              },
+              {
+                  "text" : "You barely notice the swordsman grapple the thief within the alleyway as you recover from the painful winding from the fall."
+              },
+              {
+                  "text" : "As you roll to your knees, wheezing madly, you spot the crushed bag at your side. The canvas has split, the mashed contents falling away. Not too far away, the remains of the toy boat lie across the street, trampled into bits by passers-by and horses&#39; hooves."
+              },
+              {
+                  "text" : "Your son will be devastated, and your spouse disappointed."
+              },
+              {
+                  "text" : "You wonder what you could have done to avoid this."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Try again...", 
+                    "page": 0
+                }
+            ]
+          },
+          {
+            "id": 25,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You leap out of the way as the warrior barrels into the small gathering of traders standing around you. With the strength of a tiger he launches them off their feet and into the dirt." 
+              },
+              {
+                  "text" : "The warrior immediately gives chase once more, barely stopping to glance at the merchants groaning at his feet."
+              },
+              {
+                  "text" : "You watch the furious man grapple the beleaguered bread thief as you stoop to help the traders to their feet."
+              },
+              {
+                  "text" : "You suddenly feel that the town has become too dangerous to wander, the lord&#39;s men are becoming violent in their search for the mysterious kidnapper from the castle. It&#39;s time to leave for home before you get hurt."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Take the road east, out of town...", 
+                    "page": 26
+                }
+            ]
+          },
+          {
+            "id": 26,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You collect your mule from the stables outside the castle town. The weedy creature barely carries your weight as it struggles down the path back home. You take the road past the paddy fields, the sun catching the water in a blaze of orange and red." 
+              },
+              {
+                  "text" : "You pass the outskirts of the cursed forest, known locally as the Sea of Ghosts. A forbidden place of foul legend and superstition. You always avoid it when you pass this way."
+              },
+              {
+                  "text" : "You reach a fork in the path, one leading to the Torii gate entrance to the forest, and the other towards your home village close to the mountains."
+              },
+              {
+                  "text" : "Gazing into the distance, you notice a large column of smoke trailing into the sky... exactly where your village lies. "
+              },
+              {
+                  "text" : "A Fire! Your family!"
+              },
+              {
+                  "text" : "Just as you go to spur your mule into a wobbly canter, a voice calls out from the path to the forest. A faint, child&#39;s voice... "
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Head for your burning village...", 
+                    "page": 27
+                },
+                { 
+                    "text": "Head to the voice in the forest...", 
+                    "page": 28
+                }
+            ]
+          },
+          {
+            "id": 27,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "The mule whines in discomfort from the sudden demand for speed." 
+              },
+              {
+                  "text" : "Fear pushes you onward, a desperateness comes to your breath. You begin to smell the awful acridness of smoldering wood and the yellow fires dance in the burning summer light overhead. You push through the smoke, the stinging smog stabbing pins into your eyes."
+              },
+              {
+                  "text" : "Then, a whizzing sound of metal, a sudden thud, and you fall from your mount."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Gasp for breath...", 
+                    "page": 29
+                }
+            ]
+          },
+          {
+            "id": 28,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You turn about and head towards the bowed, red Torii gate at the edge of the forest." 
+              },
+              {
+                  "text" : "The voice calls out once more, and you recognise it immediately: "
+              },
+              {
+                  "text" : "Yosuke! Your son!"
+              },
+              {
+                  "text" : "What is he doing all this way from home?!"
+              },
+              {
+                  "text" : "You push your mule into a gallop as you drive it onward at pace. Yosuke&#39;s little calls are heard faintly over the hammering of your mount&#39;s hooves."
+              },
+              {
+                  "text" : "The dying light of sunset hits the branches of the dense treeline, a line of orange firelight stretching across the spindly, finger-like branches. Within the Torii gate you see a tiny figure, waving in your direction. One hand grips the handle of a small, wooden cart."
+              },
+              {
+                  "text" : "You hit a series of small hills that lie ahead of the forest and the gate entrance dips below your eye line. When you crest the hill, you can no longer see Yosuke - gone from within the red gateway."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Press onward!...", 
+                    "page": 30
+                }
+            ]
+          },
+          {
+            "id": 29,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You lie splayed upon the dirt. You gasp and smoke fills your lungs with acute agony. Your eyes begin to cloud over. " 
+              },
+              {
+                  "text" : "Grasping about, bewildered and confused, you feel the wooden boat beneath your fingers. You clutch it tightly as a silhouette appears amidst the roiling fog."
+              },
+              {
+                  "text" : "Steel cuts into your chest, the blade hitting your heart."
+              },
+              {
+                  "text" : "Your vision turns inky-black as the bandit kneels down at your side."
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "......", 
+                    "page": 31
+                }
+            ]
+          },
+          {
+            "id": 30,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You incredulously shake your head, trying to understand. Where has he gone? He could not have gone into the forest!" 
+              },
+              {
+                  "text" : "You and your partner have warned him not to in the past! "
+              },
+              {
+                  "text" : "Steel cuts into your chest, the blade hitting your heart."
+              },
+              {
+                  "text" : "It is named the Sea of Ghosts!"
+              },
+              {
+                  "text" : "As you reach the Torii gate, the mule drops to its knees in exhaustion, its haggard breath a grated wheeze. You quickly give the animal a drink of spring water, before peering into the unnerving woodland. Dark shadows pass under the lowest boughs. A frozen trickle of dread shudders through you."
+              },
+              {
+                  "text" : "You pluck up your courage, holding your satchel closely. "
+              },
+              {
+                  "text" : "You ignore your better judgment and proceed into the woods. "
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "......", 
+                    "page": 31
+                }
+            ]
+          },
+          {
+            "id": 31,
+            "title": "House of Delicate Leaves - Sakura",
+            "description": [
+              {
+                  "text": "You have reached the end of the Sakura demo. Thank you for playing!" 
+              }
+          ],
+            "buttons": [
+                
+                { 
+                    "text": "Restart", 
+                    "page": 0
+                }
+            ]
+          }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
